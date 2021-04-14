@@ -3,6 +3,8 @@ support. Unfortunately, most distributions do not yet offer a ``libyang``
 package from their repositories. Therefore we offer two options to install this
 library.
 
+On Fedora 33+ it can be installed with `sudo dnf install libyang libyang-devel`.
+
 **Option 1: Binary Install**
 
 The FRR project builds some binary ``libyang`` packages.
